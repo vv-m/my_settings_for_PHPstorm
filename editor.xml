@@ -1,0 +1,8 @@
+<application>
+  <component name="TodoConfiguration">
+    <filter name="Vlad">
+      <pattern index="1" />
+      <pattern index="0" />
+    </filter>
+  </component>
+</application>
